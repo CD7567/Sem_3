@@ -13,6 +13,6 @@ add_executable(1_E_hexen contest_1/E_hexen/hexen.c)
 add_executable(1_F_decimal contest_1/F_decimal/decimal.c)
 add_executable(1_G_longN contest_1/G_longN/longN.c)
 add_executable(1_H_setun contest_1/H_setun/setun.c)
-
+add_executable(1_I_any contest_1/I_any/any.c)
 add_executable(1_J_rational contest_1/J_rational/rational.c)
 add_executable(1_K_rome2arabic contest_1/K_rome2arabic/rome2arabic.c)
