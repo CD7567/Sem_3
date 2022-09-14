@@ -17,3 +17,6 @@ add_executable(1_I_any contest_1/I_any/any.c)
 add_executable(1_J_rational contest_1/J_rational/rational.c)
 add_executable(1_K_rome2arabic contest_1/K_rome2arabic/rome2arabic.c)
 add_executable(1_L_Q contest_1/L_Q/q.c)
+
+
+add_executable(1_O_drob contest_1/O_drob/drob.c)
