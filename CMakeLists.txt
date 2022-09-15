@@ -5,6 +5,7 @@ set(CMAKE_C_STANDARD 17)
 
 add_executable(Sem_3 main.c)
 
+
 add_executable(1_A_octal contest_1/A_octal/octal.c)
 add_executable(1_B_triple contest_1/B_triple/triple.c)
 add_executable(1_C_sum contest_1/C_sum/sum.c)
@@ -20,3 +21,6 @@ add_executable(1_L_Q contest_1/L_Q/q.c)
 add_executable(1_M_base contest_1/M_base/base.c)
 add_executable(1_N_i contest_1/N_i/i.c)
 add_executable(1_O_drob contest_1/O_drob/drob.c)
+
+
+add_executable(2_A_bit_0 contest_2/A_bit_0/bit_0.c)
