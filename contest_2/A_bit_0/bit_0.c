@@ -3,18 +3,6 @@
 
 typedef unsigned long long ull;
 
-char ToHEX(ull hex_digit) {
-  char digit;
-
-  if (hex_digit < 10) {
-    digit = hex_digit + 48;
-  } else {
-    digit = hex_digit + 87;
-  }
-
-  return digit;
-}
-
 int main() {
   char lhs_hex[3], rhs_hex[3];
   ull lhs, rhs, result = 0, exp = 1;
