@@ -24,3 +24,4 @@ add_executable(1_O_drob contest_1/O_drob/drob.c)
 
 
 add_executable(2_A_bit_0 contest_2/A_bit_0/bit_0.c)
+add_executable(2_B_rwx contest_2/B_rwx/rwx.c)
