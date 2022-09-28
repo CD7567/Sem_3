@@ -1,6 +1,6 @@
 #include <stdint.h>
 
-union data
+union data {
   uint64_t u64;
   uint8_t arr[8];
   uint32_t a32[2];
