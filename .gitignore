@@ -2,3 +2,7 @@
 /cmake-build-debug/
 /main.c
 /CMakeLists.txt
+
+/contest_2/P_base64/data
+/contest_2/P_base64/base64
+/contest_2/P_base64/filler.c
