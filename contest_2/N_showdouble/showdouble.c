@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-union BitDouble {
+union BitBase {
   float f;
   double d;
   long double ld;
